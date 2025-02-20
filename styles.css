@@ -1,0 +1,49 @@
+body{
+    background-color:#dee2e6;
+    margin: 10px;
+    padding: 5px;
+    font-family: sans-serif;
+  }
+  header{
+    background-color: #adb5bd;
+    padding: 3px;
+  }
+  header p{
+    text-align: center;
+  }
+  #title{
+    text-align: center;
+    font-size: 3em;
+  }
+  img{
+    display:block;
+    max-width:100%;
+    width: 800px;
+    margin: 0 auto;
+  }
+  #img-caption{
+    text-align: center;
+    margin-top: 10px;
+  }
+  #img-div{
+    background-color: white;
+    padding: 5px;
+    margin: 15px;
+  }
+  #titulo-info{
+    text-align: center;
+    font-size: 2em;
+  }
+  #saibamais{
+    text-align: center;
+    margin-top: 40px;
+  }
+  #tribute-info{
+   text-align: justify;
+  }
+  blockquote{
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+  }
+  
